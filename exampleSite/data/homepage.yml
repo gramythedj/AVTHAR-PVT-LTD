@@ -1,9 +1,8 @@
 ############################ banner ##########################
 banner:
   enable : true
-  title : "Best Beauty Cream For Your Skin"
-  content : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et
-          dolore magna aliquyam erat, sed dia"
+  title : "Avathar PVT LTD"
+  content : "Growers and Distributors of Organic Agricultural Goods such as Rice, spices, Coffee and Engineering Products "
   image : "images/banner.png"
   # button
   button:
