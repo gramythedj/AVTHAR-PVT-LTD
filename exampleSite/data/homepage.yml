@@ -3,7 +3,7 @@ banner:
   enable : true
   title : "Avathar PVT LTD"
   content : "Growers and Distributors of Organic Agricultural Goods such as Rice, spices, Coffee and Engineering Products "
-  image : "images/banner.png"
+  image : "images/circlelogo.png"
   # button
   button:
     enable : true
