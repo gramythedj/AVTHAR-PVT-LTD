@@ -1,8 +1,8 @@
 ############################ banner ##########################
 banner:
   enable : true
-  title : "Avathar PVT LTD"
-  content : "Growers and Distributors of Organic Agricultural Goods such as Rice, spices, Coffee and Engineering Products "
+  title : "Raksasaballi.com"
+  content : "Discover unique designs and Movie merchandise at Raksasaballi , your go to startup for Fashion and Pop culture Inspiration. "
   image : "images/banner.png"
   # button
   button:
@@ -12,70 +12,29 @@ banner:
   # demo video
   video:
     enable : true
-    videoURL : "https://www.youtube.com/embed/wf4F2-9UXUo"
+    videoURL : "https://www.youtube.com/"
 
 ########################## About ##############################
 about:
   enable : true
-  title : "About Our Product"
-  content : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et
-          dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet
-          clita kasd gubergren,"
+  title : "About Our Website"
+  content : "we are a clothing and Merch Startup.,"
   image : "images/about.png"
 
 
 ###################### Call to action ########################
 cta:
   enable : true
-  title : "Buy Black rice in bulk"
-  content : "Available for limited time only. Grab one while you still can!"
-  image : "images/cta.png"
-  overlayImage : "images/cta-overlay.png"
+  title : "Site is under construction"
+  content : "w are currently building our Beta Ecommerce engine, stay tuned!"
   button:
     label : "All Products"
     link : "products/"
 
-######################## raw material #######################
-material:
-  enable : true
-  title : "Ingredients Of Our Products"
-  subtitle : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et
-          dol."
-  materialItem:
-    # material item loop
-    - title : "Matcha Seeds"
-      image : "images/material/material-1.png"
-      content : "Lorem ipsum dolor sit amet,be consetetur sadipscing elitr, sed diam nonumy eirmod tem"
-      
-    # material item loop
-    - title : "Aloe Vera"
-      image : "images/material/material-2.png"
-      content : "Lorem ipsum dolor sit amet,be consetetur sadipscing elitr, sed diam nonumy eirmod tem"
-      
-    # material item loop
-    - title : "Turmeric"
-      image : "images/material/material-3.png"
-      content : "Lorem ipsum dolor sit amet,be consetetur sadipscing elitr, sed diam nonumy eirmod tem"
-      
-    # material item loop
-    - title : "Tulshi leaf"
-      image : "images/material/material-4.png"
-      content : "Lorem ipsum dolor sit amet,be consetetur sadipscing elitr, sed diam nonumy eirmod tem"
 
-########################### Advantage #########################
-advantage:
-  enable : true
-  title : "Advantages Of Using <br> Our Product"
-  subtitle : "Lorem ipsum dolor sit amet, da decal consetetur<br> sadipscing elitr, sed diam nonumya eirmod"
-  image : "images/advantage.png"
-  advantageList:
-    # advantage list loop
-    - listItem : "Extremely lightweight"
-    - listItem : "Excellent breathability"
-    - listItem : "Can increase Cell activation"
-    - listItem : "Glowing Skin In 7 Days"
-    - listItem : "Increasing Glow Of Face"
-    - listItem : "More Beautiful Face Skin"
+  t
+
+
 
 
 ######################## Promo Video ##########################
@@ -85,14 +44,10 @@ video:
   content : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et
           dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et."
   videoThumb : "images/video-thumb.jpg"
-  videoURL : "https://www.youtube.com/embed/wf4F2-9UXUo"
+  videoURL : "https://www.youtube.com/"
 
 
-######################## Products #############################
-products:
-  enable : true
-  title : "Products List"
-  # product item comes from "content/products"
+
 
 
 ########################## Testimonial ########################
