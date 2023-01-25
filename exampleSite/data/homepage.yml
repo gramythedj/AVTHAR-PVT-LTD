@@ -27,7 +27,6 @@ cta:
   enable : true
   title : "Site is under construction"
   content : "w are currently building our Beta Ecommerce engine, stay tuned!"
-  image : "images/Fotor_AI.png"
   button:
     label : "All Products"
     link : "products/"
