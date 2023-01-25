@@ -3,7 +3,7 @@ banner:
   enable : true
   title : "Raksasaballi.com"
   content : "Discover unique designs and Movie merchandise at Raksasaballi , your go to startup for Fashion and Pop culture Inspiration. "
-  image : "images/logoz.png"
+  image : "images/dino.png"
   # button
   button:
     enable : true
@@ -17,7 +17,7 @@ banner:
 ########################## About ##############################
 about:
   enable : true
-  title : "About Our Website"
+  title : "#DEMO About Our Website"
   content : "we are a clothing and Merch Startup.,"
   image : "images/logoz.png"
 
@@ -41,7 +41,7 @@ cta:
 ######################## Promo Video ##########################
 video:
   enable : true
-  title : "How To Use This Product?"
+  title : " #DEMO How To Use This Product?"
   content : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et
           dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et."
   videoThumb : "images/video-thumb.jpg"
@@ -54,7 +54,7 @@ video:
 ########################## Testimonial ########################
 testimonial:
   enable : true
-  title : "What People Are Saying <br> About Our Product"
+  title : " #DEMO What People Are Saying <br> About Our Product"
   testimonialItem:
     # testimonial item loop
     - name : "Angelo Perara"
