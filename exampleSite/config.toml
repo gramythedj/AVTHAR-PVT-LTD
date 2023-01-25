@@ -81,6 +81,7 @@ disqusShortname = ""
 
 #################### default parameters ################################
 [params]
+logo = "images/logo.png"
 home = "Home"
 # Meta data
 description = "Discover unique designs and Movie merchandise at Raksasaballi , your go to startup for Fashion and Pop culture Inspiration."
