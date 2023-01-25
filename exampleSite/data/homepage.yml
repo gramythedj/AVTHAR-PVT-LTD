@@ -3,7 +3,7 @@ banner:
   enable : true
   title : "Raksasaballi.com"
   content : "Discover unique designs and Movie merchandise at Raksasaballi , your go to startup for Fashion and Pop culture Inspiration. "
-  image : "images/banner.png"
+  image : "images/output.jpg"
   # button
   button:
     enable : true
@@ -19,7 +19,7 @@ about:
   enable : true
   title : "About Our Website"
   content : "we are a clothing and Merch Startup.,"
-  image : "images/about.png"
+  image : "images/output.jpg"
 
 
 ###################### Call to action ########################
@@ -27,6 +27,7 @@ cta:
   enable : true
   title : "Site is under construction"
   content : "w are currently building our Beta Ecommerce engine, stay tuned!"
+  image : "images/Fotor_AI.png"
   button:
     label : "All Products"
     link : "products/"
